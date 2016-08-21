@@ -1,4 +1,8 @@
-##git/github 더 잘쓰기 session
+---
+layout: post
+title: GDG DevCamp의 git/github 더 잘쓰기 session
+---
+
 1. commit comment는
 Tag: topic sentence 50문자 이내로
 (한 줄 비우고)
